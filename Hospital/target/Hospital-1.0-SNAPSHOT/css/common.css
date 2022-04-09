@@ -1,0 +1,23 @@
+html {
+    background-size: 1900px 1080px;
+    background: url("../img/background.jpeg") no-repeat fixed;
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
